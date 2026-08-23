@@ -66,13 +66,6 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=mamad2411&theme=neon&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=mamad2411&theme=neon&style=terminal" alt="mamad2411 stats section" />
-  </picture>
-</p>
-
-<p align="center">
   <img src="assets/arch-btw-terminal.svg?v=6" alt="I use Arch btw" width="560" />
 </p>
 
