@@ -16,8 +16,44 @@
 
 ## Skills
 
+**Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,dart,cs,astro,html,css,git,github,vscode&perline=10" alt="mamad2411 skill icons" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,css,html,java,javascript,typescript,dart,golang,kotlin,lua,php,python,r,ruby,rust,scala,swift,bash,powershell,perl,elixir,haskell,julia,matlab,latex,markdown,regex&perline=15" alt="languages" />
+</p>
+
+**Frontend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,nuxtjs,angular,svelte,solidjs,remix,astro,tailwindcss,bootstrap,sass,less,jquery,alpinejs,htmx,threejs,d3,materialui,windicss,styledcomponents&perline=15" alt="frontend" />
+</p>
+
+**Backend, Build & Testing**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,django,flask,fastapi,laravel,rails,spring,dotnet,symfony,ktor,actix,deno,bun,graphql,prisma,sequelize,hibernate,vite,webpack,rollupjs,gulp,babel,pug,jest,vitest,cypress,selenium&perline=15" alt="backend, build and testing" />
+</p>
+
+**Databases**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,dynamodb,cassandra,planetscale,supabase,firebase,elasticsearch,rabbitmq,kafka&perline=15" alt="databases" />
+</p>
+
+**Cloud, Hosting & DevOps**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,netlify,vercel,heroku,cloudflare,nginx,grafana,prometheus,openstack,openshift&perline=15" alt="cloud, hosting and devops" />
+</p>
+
+**Design & Productivity**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop,aftereffects,premiere,blender,sketchup,autocad,postman,notion,obsidian,npm,pnpm,yarn,git,github,bitbucket&perline=15" alt="design and productivity" />
+</p>
+
+**Editors, OS & Terminal**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,pycharm,webstorm,phpstorm,idea,clion,rider,sublime,vim,neovim,emacs,linux,ubuntu,debian,arch,kali,windows,apple&perline=15" alt="editors, os and terminal" />
+</p>
+
+**Mobile, Game Dev & ML**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,unity,unrealengine,godot,gamemakerstudio,robloxstudio,pytorch,tensorflow,scikitlearn,opencv,ros,arduino,raspberrypi&perline=15" alt="mobile, game dev and ml" />
 </p>
 
 ## GitHub Stats
@@ -29,13 +65,10 @@
   </picture>
 </p>
 
-## Projects
+## Btw
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=mamad2411&theme=neon&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=mamad2411&theme=neon&style=terminal" alt="mamad2411 projects section" />
-  </picture>
+  <img src="assets/arch-btw-terminal.svg" alt="I use Arch btw" />
 </p>
 
 ## Heatmap
