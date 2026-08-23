@@ -17,10 +17,7 @@
 ## Skills
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=mamad2411&theme=neon&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=mamad2411&theme=neon&style=terminal" alt="mamad2411 stack section" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=ts,js,dart,cs,astro,html,css,git,github,vscode&perline=10" alt="mamad2411 skill icons" />
 </p>
 
 ## GitHub Stats
