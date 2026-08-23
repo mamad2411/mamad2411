@@ -6,8 +6,6 @@
   <img src="assets/hero-terminal.svg" alt="mamad2411 hero terminal" />
 </p>
 
-## About Me
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=mamad2411&theme=neon&style=terminal&mode=light" />
@@ -57,8 +55,6 @@
   <img src="https://skillicons.dev/icons?i=flutter,unity,unrealengine,godot,gamemakerstudio,robloxstudio,pytorch,tensorflow,scikitlearn,opencv,ros,arduino,raspberrypi&perline=15" alt="mobile, game dev and ml" />
 </p>
 
-## GitHub Stats
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=mamad2411&theme=neon&style=terminal&mode=light" />
@@ -66,13 +62,9 @@
   </picture>
 </p>
 
-## Btw
-
 <p align="center">
   <img src="assets/arch-btw-terminal.svg?v=6" alt="I use Arch btw" width="560" />
 </p>
-
-## Heatmap
 
 <p align="center">
   <picture>
