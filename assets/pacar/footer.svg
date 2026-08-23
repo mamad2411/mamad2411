@@ -1,0 +1,22 @@
+<svg width="760" height="140" viewBox="0 0 760 140" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Cascadia Code','JetBrains Mono',Consolas,Menlo,monospace">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="758" height="138" rx="12" fill="#0a0b0f" stroke="#22242e" stroke-width="1.5"/>
+
+  <text x="20" y="34" font-size="14.5" fill="#7d818f">[<tspan fill="#2ecc71" font-weight="700">mamad2411</tspan><tspan fill="#e6e6e6">@arch</tspan><tspan fill="#7d818f"> ~]$ </tspan><tspan fill="#e6e6e6">basename mygirlfriend.md</tspan></text>
+
+  <text x="20" y="82" font-size="30" font-weight="800" fill="#ff79c6" filter="url(#glow)">pacar &#10084;</text>
+
+  <text x="20" y="122" font-size="14.5" fill="#7d818f">[<tspan fill="#2ecc71" font-weight="700">mamad2411</tspan><tspan fill="#e6e6e6">@arch</tspan><tspan fill="#7d818f"> ~]$</tspan></text>
+  <rect x="184" y="109" width="10" height="16" fill="#ff79c6">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

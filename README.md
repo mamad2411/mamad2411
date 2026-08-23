@@ -7,10 +7,20 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=mamad2411&theme=neon&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=mamad2411&theme=neon&style=terminal" alt="mamad2411 about section" />
-  </picture>
+  <img src="assets/pacar/header.svg" alt="cat mygirlfriend.md" width="560" />
+</p>
+
+<p align="center">
+  <img src="assets/pacar/pacar-1.jpg" width="270" />
+  <img src="assets/pacar/pacar-2.jpg" width="270" />
+</p>
+<p align="center">
+  <img src="assets/pacar/pacar-3.jpg" width="270" />
+  <img src="assets/pacar/pacar-4.jpg" width="270" />
+</p>
+
+<p align="center">
+  <img src="assets/pacar/footer.svg" alt="pacar" width="560" />
 </p>
 
 ## Skills
