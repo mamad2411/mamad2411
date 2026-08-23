@@ -1,4 +1,4 @@
-<svg width="760" height="560" viewBox="0 0 760 560" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Cascadia Code','JetBrains Mono',Consolas,Menlo,monospace">
+<svg width="760" height="500" viewBox="0 0 760 500" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Cascadia Code','JetBrains Mono',Consolas,Menlo,monospace">
   <defs>
     <radialGradient id="bgGlow" cx="50%" cy="0%" r="90%">
       <stop offset="0%" stop-color="#1c1730"/>
@@ -18,7 +18,7 @@
     </filter>
   </defs>
 
-  <rect x="1" y="1" width="758" height="558" rx="12" fill="url(#bgGlow)" stroke="#3b3654" stroke-width="1.5"/>
+  <rect x="1" y="1" width="758" height="498" rx="12" fill="url(#bgGlow)" stroke="#3b3654" stroke-width="1.5"/>
 
   <!-- title bar -->
   <rect x="1" y="1" width="758" height="36" rx="12" fill="#15131f"/>
@@ -102,7 +102,7 @@
 
   <!-- final blinking prompt -->
   <text x="20" y="470" font-size="14.5" fill="#f8f8f2">[<tspan fill="#50fa7b">mamad2411</tspan><tspan fill="#f8f8f2">@</tspan><tspan fill="#50fa7b">arch</tspan><tspan fill="#f8f8f2"> ~]$</tspan></text>
-  <rect x="118" y="458" width="10" height="16" fill="#8be9fd">
+  <rect x="188" y="457" width="10" height="16" fill="#8be9fd">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
 </svg>
