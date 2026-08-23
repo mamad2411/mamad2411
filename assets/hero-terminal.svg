@@ -1,0 +1,68 @@
+<svg width="820" height="360" viewBox="0 0 820 360" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Cascadia Code','JetBrains Mono',Consolas,Menlo,monospace">
+  <defs>
+    <clipPath id="clipWhoami">
+      <rect x="282" y="72" height="26" width="0">
+        <animate attributeName="width" from="0" to="80" dur="0.5s" begin="0.2s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clipCat">
+      <rect x="282" y="204" height="26" width="0">
+        <animate attributeName="width" from="0" to="150" dur="0.6s" begin="2.1s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="818" height="358" rx="14" fill="#0a0b0f" stroke="#22242e" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <rect x="1" y="1" width="818" height="46" rx="14" fill="#15161d"/>
+  <rect x="1" y="33" width="818" height="14" fill="#15161d"/>
+  <circle cx="32" cy="24" r="7" fill="#ff5f56"/>
+  <circle cx="56" cy="24" r="7" fill="#ffbd2e"/>
+  <circle cx="80" cy="24" r="7" fill="#27c93f"/>
+  <text x="410" y="29" text-anchor="middle" fill="#7d818f" font-size="15">mamad2411@github: ~ — -zsh</text>
+
+  <!-- line 1: whoami -->
+  <text x="40" y="92" font-size="20">
+    <tspan fill="#2ecc71" font-weight="700">mamad2411</tspan><tspan fill="#e6e6e6">@github</tspan><tspan fill="#7d818f">:~$ </tspan>
+  </text>
+  <text x="282" y="92" font-size="20" fill="#e6e6e6" clip-path="url(#clipWhoami)">whoami</text>
+
+  <!-- result: name -->
+  <g opacity="0">
+    <text x="40" y="140" font-size="34" font-weight="800" fill="#f2f2f2">Ahmad Zaidan Ali</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.8s" fill="freeze"/>
+  </g>
+
+  <!-- result: role -->
+  <g opacity="0">
+    <text x="40" y="176" font-size="23" font-weight="600" fill="#58a6ff">Full-Stack Software Engineer</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.25s" fill="freeze"/>
+  </g>
+
+  <!-- line 2: cat bio.txt -->
+  <g opacity="0">
+    <text x="40" y="224" font-size="20">
+      <tspan fill="#2ecc71" font-weight="700">mamad2411</tspan><tspan fill="#e6e6e6">@github</tspan><tspan fill="#7d818f">:~$ </tspan>
+    </text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.9s" fill="freeze"/>
+  </g>
+  <text x="282" y="224" font-size="20" fill="#e6e6e6" clip-path="url(#clipCat)">cat bio.txt</text>
+
+  <!-- result: bio -->
+  <g opacity="0">
+    <text x="40" y="270" font-size="20" fill="#9aa0aa">"Code your dreams into reality! "</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.9s" fill="freeze"/>
+  </g>
+
+  <!-- final prompt with blinking cursor -->
+  <g opacity="0">
+    <text x="40" y="318" font-size="20">
+      <tspan fill="#2ecc71" font-weight="700">mamad2411</tspan><tspan fill="#e6e6e6">@github</tspan><tspan fill="#7d818f">:~$</tspan>
+    </text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="3.4s" fill="freeze"/>
+  </g>
+  <rect x="268" y="304" width="11" height="20" fill="#e6e6e6" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.34;0.35;0.7;0.71;1" dur="1.2s" begin="3.4s" repeatCount="indefinite"/>
+  </rect>
+</svg>

@@ -3,10 +3,7 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=mamad2411&theme=neon&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=mamad2411&theme=neon&style=terminal" alt="mamad2411 hero section" />
-  </picture>
+  <img src="assets/hero-terminal.svg" alt="mamad2411 hero terminal" />
 </p>
 
 ## About Me
