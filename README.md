@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=8BE9FD&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=60&lines=Hi+%F0%9F%91%8B%2C+I%27m+mamad2411;Full-Stack+%26+Mobile+Developer;TypeScript+%E2%80%A2+Dart+%E2%80%A2+C%23+%E2%80%A2+Astro;I+use+Arch+btw+%F0%9F%98%8E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=8BE9FD&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=60&lines=Ahmad+Zaidan+Ali;Full+Stack+Engineer+%26+Mobile+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
