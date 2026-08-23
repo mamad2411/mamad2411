@@ -68,7 +68,7 @@
 ## Btw
 
 <p align="center">
-  <img src="assets/arch-btw-terminal.svg" alt="I use Arch btw" />
+  <img src="assets/arch-btw-terminal.svg?v=2" alt="I use Arch btw" />
 </p>
 
 ## Heatmap
