@@ -1,90 +1,51 @@
-<div align="center">
-  <img src="https://github.com/chaali03/chaali03/blob/main/apalah/Chill Mario.gif" alt="Coding GIF" width="900" height="420" /> <!-- Atur panjang dan tinggi sesuai kebutuhan -->
-</div>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zaidan!;" />
-</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=mamad2411&theme=neon&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=mamad2411&theme=neon&style=terminal" alt="mamad2411 hero section" />
+  </picture>
+</p>
 
-<div style="text-align: center; margin-top: 20px;">
-  <h1>🌟 Hello World! I'm Zaidan 👨‍💻</h1>
-  <p> 🔧 A <strong>passionate Web Developer</strong>, lifelong learner, and innovator. </p>
-  <p>  💡 Turning ideas into reality, one line of code at a time.</p>
-  
-</div>
+## About Me
 
-<div align="center">
-  <img src="assets/profile-frame.gif" alt="My Photo Frame" width="300" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=mamad2411&theme=neon&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=mamad2411&theme=neon&style=terminal" alt="mamad2411 about section" />
+  </picture>
+</p>
 
----
+## Skills
 
-### 🛠 **About Me:**
-- 🌍 I'm **Zaidan**, a **web developer** from **Indonesia**.
-- 🎓 Currently working as a **web developer** and exploring various web technologies.
-- 💻 **Web Developer** with a keen interest in **UI/UX design**, **JavaScript** frameworks (React, Node.js), and **cloud development**.
-- 🚀 I enjoy creating **dynamic web applications**, **optimizing performance**, and **scaling projects** to meet user needs.
-- 🖥️ Passionate about **clean code**, **automation**, and contributing to open-source projects.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=mamad2411&theme=neon&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=mamad2411&theme=neon&style=terminal" alt="mamad2411 stack section" />
+  </picture>
+</p>
 
----
+## GitHub Stats
 
-## 💻 **My Skills:**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=mamad2411&theme=neon&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=mamad2411&theme=neon&style=terminal" alt="mamad2411 stats section" />
+  </picture>
+</p>
 
-### **Programming Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+## Projects
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=mamad2411&theme=neon&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=mamad2411&theme=neon&style=terminal" alt="mamad2411 projects section" />
+  </picture>
+</p>
 
-### **Backend Development**
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![ExpressJS](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+## Heatmap
 
-### **Tools and Platforms**
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-</div>
-
----
-
-<h2 align="left">📫 Connect with Me:</h2>
-<div align="left">
-  <a href="https://www.linkedin.com/in/zaidanusername">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://discord.com/users/zaidanusername">
-    <img src="https://img.shields.io/badge/Discord-%2371B7E6.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://wa.me/zaidanusername">
-    <img src="https://img.shields.io/badge/WhatsApp-%2304B32C.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="https://t.me/zaidanusername">
-    <img src="https://img.shields.io/badge/Telegram-%230078CC.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://www.instagram.com/zaidanusername">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</div>
-
----
-
-✨ Keep coding, stay curious, and build amazing things! 💻
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mamad2411&theme=neon&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=mamad2411&theme=neon&style=terminal" alt="mamad2411 heatmap section" />
+  </picture>
+</p>
