@@ -1,0 +1,52 @@
+<svg width="820" height="230" viewBox="0 0 820 230" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Cascadia Code','JetBrains Mono',Consolas,Menlo,monospace">
+  <style>
+    .t{font-size:18px;font-weight:700;fill:#f2f2f2}
+    .s{font-size:12px;fill:#9aa0aa}
+    .k{font-size:11px;fill:#7d818f}
+  </style>
+  <!-- card 1 mobile -->
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.2s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" dur="0.5s" begin="0.2s" fill="freeze"/>
+    <rect x="4" y="4" width="260" height="222" rx="14" fill="#0a0b0f" stroke="#58a6ff" stroke-opacity="0.5" stroke-width="1.5"/>
+    <rect x="28" y="28" width="34" height="56" rx="7" fill="none" stroke="#58a6ff" stroke-width="2.5"/>
+    <rect x="40" y="33" width="10" height="3" rx="1.5" fill="#58a6ff"/>
+    <circle cx="45" cy="74" r="2.5" fill="#58a6ff"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="80" y="62" class="t">Mobile</text>
+    <text x="80" y="82" class="s">Engineer</text>
+    <text x="28" y="120" class="k">$ stack</text>
+    <text x="28" y="142" class="s">Flutter · React Native</text>
+    <text x="28" y="162" class="s">Kotlin · Swift</text>
+    <text x="28" y="182" class="s">Firebase · REST · CI/CD</text>
+    <rect x="28" y="198" width="0" height="3" rx="1.5" fill="#58a6ff"><animate attributeName="width" from="0" to="204" dur="0.8s" begin="0.9s" fill="freeze"/></rect>
+  </g>
+  <!-- card 2 AI -->
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.5s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" dur="0.5s" begin="0.5s" fill="freeze"/>
+    <rect x="280" y="4" width="260" height="222" rx="14" fill="#0a0b0f" stroke="#bd93f9" stroke-opacity="0.5" stroke-width="1.5"/>
+    <g stroke="#bd93f9" stroke-width="1.5" opacity="0.8"><line x1="312" y1="40" x2="338" y2="32"/><line x1="312" y1="40" x2="338" y2="56"/><line x1="312" y1="68" x2="338" y2="32"/><line x1="312" y1="68" x2="338" y2="56"/></g>
+    <g fill="#bd93f9"><circle cx="312" cy="40" r="5"/><circle cx="312" cy="68" r="5"/><circle cx="338" cy="32" r="5"><animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"/></circle><circle cx="338" cy="56" r="5"><animate attributeName="r" values="5;7;5" dur="2s" begin="1s" repeatCount="indefinite"/></circle></g>
+    <text x="364" y="62" class="t">AI</text>
+    <text x="364" y="82" class="s">Engineer</text>
+    <text x="304" y="120" class="k">$ stack</text>
+    <text x="304" y="142" class="s">PyTorch · TensorFlow</text>
+    <text x="304" y="162" class="s">OpenCV · scikit-learn</text>
+    <text x="304" y="182" class="s">LLM · RAG · Agents</text>
+    <rect x="304" y="198" width="0" height="3" rx="1.5" fill="#bd93f9"><animate attributeName="width" from="0" to="204" dur="0.8s" begin="1.2s" fill="freeze"/></rect>
+  </g>
+  <!-- card 3 IoT -->
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.8s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" dur="0.5s" begin="0.8s" fill="freeze"/>
+    <rect x="556" y="4" width="260" height="222" rx="14" fill="#0a0b0f" stroke="#50fa7b" stroke-opacity="0.5" stroke-width="1.5"/>
+    <rect x="586" y="38" width="24" height="24" rx="4" fill="none" stroke="#50fa7b" stroke-width="2.5"/>
+    <g fill="none" stroke="#50fa7b" stroke-width="2"><path d="M598 38v-8M598 62v8M586 50h-8M610 50h8" opacity="0.7"/>
+      <path d="M624 36a20 20 0 0 1 0 28" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/></path>
+      <path d="M632 28a32 32 0 0 1 0 44" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.4s" repeatCount="indefinite"/></path></g>
+    <text x="656" y="62" class="t">IoT</text>
+    <text x="656" y="82" class="s">Engineer</text>
+    <text x="580" y="120" class="k">$ stack</text>
+    <text x="580" y="142" class="s">Arduino · ESP32 · RPi</text>
+    <text x="580" y="162" class="s">MQTT · ROS · Embedded C</text>
+    <text x="580" y="182" class="s">Sensors · Edge AI · Grafana</text>
+    <rect x="580" y="198" width="0" height="3" rx="1.5" fill="#50fa7b"><animate attributeName="width" from="0" to="204" dur="0.8s" begin="1.5s" fill="freeze"/></rect>
+  </g>
+</svg>

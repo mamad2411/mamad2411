@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=8BE9FD&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=60&lines=Ahmad+Zaidan+Ali;Full+Stack+Engineer+%26+Mobile+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=8BE9FD&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=60&lines=Ahmad+Zaidan+Ali;Mobile+Engineer;AI+Engineer;IoT+Engineer;Full+Stack+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="assets/hero-terminal.svg" alt="mamad2411 hero terminal" />
+</p>
+
+<p align="center">
+  <img src="assets/roles.svg" alt="Mobile, AI and IoT engineer" width="820" />
 </p>
 
 <p align="center">
@@ -60,9 +64,24 @@
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,pycharm,webstorm,phpstorm,idea,clion,rider,sublime,vim,neovim,emacs,linux,ubuntu,debian,arch,kali,windows,apple&perline=15" alt="editors, os and terminal" />
 </p>
 
-**Mobile, Game Dev & ML**
+**Mobile**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,unity,unrealengine,godot,gamemakerstudio,robloxstudio,pytorch,tensorflow,scikitlearn,opencv,ros,arduino,raspberrypi&perline=15" alt="mobile, game dev and ml" />
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,dart,react,androidstudio,firebase&perline=15" alt="mobile" />
+</p>
+
+**AI & Machine Learning**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,fastapi,docker&perline=15" alt="ai" />
+</p>
+
+**IoT & Embedded**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros,c,cpp,rust,linux,grafana&perline=15" alt="iot" />
+</p>
+
+**Game Dev**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,unrealengine,godot,gamemakerstudio,robloxstudio&perline=15" alt="game dev" />
 </p>
 
 <p align="center">
